@@ -1,0 +1,8 @@
+{
+  "name": "HideBlocked",
+  "description": "Hides blocked messages",
+  "authors": [{ "name": "honny78" }],
+  "spec": 2,
+  "semanticColors": {},
+  "rawColors": {}
+}
