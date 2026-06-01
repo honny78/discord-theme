@@ -1,0 +1,3 @@
+[class*="blocked"] {
+    display: none !important;
+}
